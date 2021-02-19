@@ -5,6 +5,7 @@
 # Technology to use :
 
 - React
+- typescript
 - material-ui
 - firebase (hosting)
 - styled-components
